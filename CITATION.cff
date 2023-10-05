@@ -1,0 +1,5 @@
+Indicates how your software should be cited by anyone using it.
+A recently developed standard.
+cff = Citation File Format.
+Create and check via the provided tools.
+Supported by GitHub, Zenodo and Zotero.
